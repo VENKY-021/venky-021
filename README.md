@@ -28,10 +28,6 @@
 <!-- Revit -->
 <img width ='80px' height='25px' src='https://custom-icon-badges.demolab.com/badge/Revit_MEP-0696D7?style=for-the-badge&logo=revit' />
 
-<!-- Python -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
-<!-- TensorFlow -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white' />
 
 <!-- Power Systems -->
 <img width ='80px' height='25px' src='https://custom-icon-badges.demolab.com/badge/Power_Systems-512BD4?style=for-the-badge&logo=lightning' />
